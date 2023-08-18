@@ -1,0 +1,2 @@
+Pude usar todos los Verbos
+termina vacio pq el ultimo fue delete
